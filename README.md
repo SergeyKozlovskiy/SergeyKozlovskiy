@@ -14,8 +14,8 @@
 
 ### 🛠 Tech Stack
 ### ⚙️  GitHub Analytics
-<p align='center'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKozlovskiy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKozlovskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKozlovskiy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKozlovskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :telephone_receiver: Contacts
 
