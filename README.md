@@ -1,6 +1,5 @@
-## 	:wave: Hey there! I'm Sergey
+## 	:wave: [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Sergey)](https://git.io/typing-svg)
 ### :briefcase: About Me
-
 :bulb: I like learning new technologies and looking for the best solutions
 
 :mortar_board:I am currently expanding my knowledge in react at Rolling Scopes School
@@ -13,18 +12,10 @@
 
 ✉️  You can shoot me an email at webdevworkemail@gmail.com! I'll try to respond as soon as I can.
 
-### 🛠  Tech Stack
-<!--
-**SergeyKozlovskiy/SergeyKozlovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+### ⚙️  GitHub Analytics
+<p align='center'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKozlovskiy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKozlovskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
-Here are some ideas to get you started:
+### :telephone_receiver: Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
