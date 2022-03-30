@@ -2,7 +2,7 @@
 ### :briefcase: About Me
 :bulb: I like learning new technologies and looking for the best solutions
 
-I am currently expanding my knowledge in react at Rolling Scopes School
+🎓 I am currently expanding my knowledge in react at Rolling Scopes School
 
 🌱 I'm on track for learning more about Angular, testing and design patterns.
 
