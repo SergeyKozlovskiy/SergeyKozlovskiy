@@ -2,7 +2,7 @@
 ### :briefcase: About Me
 :bulb: I like learning new technologies and looking for the best solutions
 
-:mortar_board:I am currently expanding my knowledge in react at Rolling Scopes School
+I am currently expanding my knowledge in react at Rolling Scopes School
 
 🌱 I'm on track for learning more about Angular, testing and design patterns.
 
@@ -13,7 +13,14 @@
 ✉️  You can shoot me an email at webdevworkemail@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 Tech Stack
-
+<span><img src="https://img.shields.io/badge/-HTML5-orange"></span>
+<span><img src="https://img.shields.io/badge/-CSS3-informational"></span>
+<span><img src="https://img.shields.io/badge/-JavaScript-yellow"></span>
+<span><img src="https://img.shields.io/badge/-TypeScript-blue"></span>
+<span><img src="https://img.shields.io/badge/-Sass-red"></span>
+<span><img src="https://img.shields.io/badge/-BOOTSTRAP-blueviolet"></span>
+<span><img src="https://img.shields.io/badge/-React-%2361dafb"></span>
+<span><img src="https://img.shields.io/badge/-Redux-%23764abc"></span>
 ### ⚙️  GitHub Analytics
 <p align="center"  dir="auto">
 <a href="https://github.com/SergeyKozlovskiy">
