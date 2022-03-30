@@ -21,6 +21,7 @@ I am currently expanding my knowledge in react at Rolling Scopes School
 <span><img src="https://img.shields.io/badge/-BOOTSTRAP-blueviolet"></span>
 <span><img src="https://img.shields.io/badge/-React-%2361dafb"></span>
 <span><img src="https://img.shields.io/badge/-Redux-%23764abc"></span>
+<span><img src="https://img.shields.io/badge/-VSCode-blue"></span>
 ### ⚙️  GitHub Analytics
 <p align="center"  dir="auto">
 <a href="https://github.com/SergeyKozlovskiy">
