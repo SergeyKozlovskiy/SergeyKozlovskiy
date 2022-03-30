@@ -1,4 +1,4 @@
-## 	:wave: [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Sergey)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Sergey)](https://git.io/typing-svg)
 ### :briefcase: About Me
 :bulb: I like learning new technologies and looking for the best solutions
 
