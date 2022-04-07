@@ -33,5 +33,6 @@ height="160px" src="https://camo.githubusercontent.com/f4efc597b896bff48a3d05bc6
 </p>
 
 ### :telephone_receiver: Contacts
-<a src='https://t.me/KozlovskiySG'><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a> 
+ [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/KozlovskiySG "Telegramm")
+
 
