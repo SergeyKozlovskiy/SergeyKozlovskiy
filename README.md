@@ -10,7 +10,7 @@
 
 💬 I'm always happy to discuss new projects and collaborations
 
-✉️  You can shoot me an email at webdevworkemail@gmail.com! I'll try to respond as soon as I can.
+✉️  You can shoot me an email at <KozlovskiySG@yandex.ru> I'll try to respond as soon as I can.
 
 ### 🛠 Tech Stack
 <span><img src="https://img.shields.io/badge/-HTML5-orange"></span>
