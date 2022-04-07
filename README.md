@@ -34,6 +34,6 @@ height="160px" src="https://camo.githubusercontent.com/f4efc597b896bff48a3d05bc6
 
 ### :telephone_receiver: Contacts
  [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/KozlovskiySG "Telegramm")
- [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](KozlovskiySG@yandex.ru "Yandex")
+ [<img src="https://img.icons8.com/doodle/48/000000/yandex-logo.png"/>](mailto:KozlovskiySG@yandex.ru "Yandex")
 
 
