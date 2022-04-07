@@ -12,6 +12,8 @@
 
 ✉️  You can shoot me an email at <KozlovskiySG@yandex.ru> I'll try to respond as soon as I can.
 
+:page_facing_up: You can also see my [CV](https://1drv.ms/w/s!ArB5TUxrKwdHii05aqbMRnlL_6p9?e=5boTCo "CV")
+
 ### 🛠 Tech Stack
 <span><img src="https://img.shields.io/badge/-HTML5-orange"></span>
 <span><img src="https://img.shields.io/badge/-CSS3-informational"></span>
